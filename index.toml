@@ -330,11 +330,6 @@ hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
-metafile = true
-
-[[files]]
 file = "mods/inline.pw.toml"
 hash = "008a30f9d2ef5a47262d1b34693e0cbb4121d8dc42efa7eccea4c20c4f412c51"
 metafile = true
