@@ -6,6 +6,11 @@ hash = "aade74980123d37176d7488197d4bba4399aba3e35cd78feb7a1041518238744"
 metafile = true
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "63833ffe55dc61c65d118669f3ba9d9870310dc2354387cba81011490bc40ccf"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "41fc2f21422cff66da8163bfc3410242b3a68ced49597b2a37f5f7d937ecb636"
 metafile = true
 
 [[files]]
@@ -277,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "8e37b6a84cfa2134b5d57d38b7ff3c45bb70d30ecb7295cd2d68948c672f788c"
+hash = "5633c65f3c17d360e1dfee6df5be8087da3c92083ed0ec48caa63285a207e6a4"
 metafile = true
 
 [[files]]

@@ -11,3 +11,8 @@ hash = "d1d7c0cffe0b1110c4ef27b02578de225dd1506c33a76b988bc512894224610838c63d7b
 [update.modrinth]
 mod-id = "H5XMjpHi"
 version = "QgNMKdd7"
+
+[option]
+optional = true
+default = false
+description = "Shows your model in First Person, Press F6 to disable it."
