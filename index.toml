@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/catalogue.pw.toml"
-hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
+hash = "a7ba514a40fce692ccd896b49727ff1db3975aa284a2adf3c04f9dd7b6fdc82f"
 metafile = true
 
 [[files]]
@@ -112,12 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
+hash = "8165f9f7f66ffe4fa7b92ef8f8564cd10f93ec2cf07d6931c442cf91333a1ca3"
 metafile = true
 
 [[files]]
@@ -306,9 +301,8 @@ hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
 metafile = true
 
 [[files]]
-file = "mods/hexalia.pw.toml"
-hash = "775834abe8c3760693a61aeacb1dde4c12e8a626ccb9658fde5c91bbb4639c47"
-metafile = true
+file = "mods/hexal-forge-1.20.1-0.3.0-3-skyevg-MODIFIED-unofficial.jar"
+hash = "21b9e09a9ced742cbe351f7f577f55f02e282a04502360713cd0b84874c35828"
 
 [[files]]
 file = "mods/hexflow.pw.toml"
@@ -419,6 +413,10 @@ metafile = true
 file = "mods/more-peripherals.pw.toml"
 hash = "22fdac711ad40f7498c547d8a6df6cf7865909f050d16c7f59d6284a3be67509"
 metafile = true
+
+[[files]]
+file = "mods/moreiotas-forge-1.20.1-0.1.0-5.jar"
+hash = "127054c462271adc93154a40ea9ef7c05da95847abc390cb21326a0210a250d9"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -593,9 +591,4 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "4bcf74d4569def60ca031d565350952c2edcc420f26278bc7997654a77b6fb4d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ducky.pw.toml"
-hash = "34a9df6342862489350f4b1e627bba638ce49c4cd31602b3eaf50987d5145129"
 metafile = true
