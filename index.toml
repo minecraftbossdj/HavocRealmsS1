@@ -196,6 +196,11 @@ hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
 metafile = true
 
 [[files]]
+file = "mods/digital-items-3.pw.toml"
+hash = "6aa65af78545c55f346e2f00fa234c7baacd8c1ceadfc40c84e117f845bd3c17"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "53fd334af7b7c6ada2b3d15a8d666011c5b54bcfc5515e6ca2d13eeb3c286b0d"
 metafile = true
@@ -288,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "5d5819b14f3e0088d99e82f2a6b2f77df2b566726c9380b89b858b4246c69d25"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
 metafile = true
 
 [[files]]
@@ -454,6 +464,16 @@ hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "3a4c0fe9052e2c63f96a08066fb18ba08f501e06e8ffd6e2c9240e86eab21304"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
 metafile = true
@@ -462,6 +482,10 @@ metafile = true
 file = "mods/peripheralium.pw.toml"
 hash = "fac1fc963952e2ca10e21289d27cc3a2629cb0f2f33b8ec33f2d37cf9335fd08"
 metafile = true
+
+[[files]]
+file = "mods/peripheralworks-forge-1.20.1-1.4.5.jar"
+hash = "ad273f13c2ad416af5672e36c15ea5d92a02ce12ffc2bbc954a81a362e3b661a"
 
 [[files]]
 file = "mods/polymorph.pw.toml"
@@ -544,11 +568,6 @@ hash = "db609db8be8103f8f1d2c120739f6fcce1e11dbd2fd813ee9e46369bef98d095"
 metafile = true
 
 [[files]]
-file = "mods/textrues-embeddium-options.pw.toml"
-hash = "a3ff68906b92808a1e5c9a6b0d5f3539b3d8b8ffa81d4939f844469d732ffe35"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "5faff2689a31c0e16d05b9b4cc359394ff4b398b194cb0d1334753d1216c8d85"
 metafile = true
@@ -571,11 +590,6 @@ metafile = true
 [[files]]
 file = "mods/turtlematic.pw.toml"
 hash = "1a8984a958382b8676baa3fb51ac7615007c71cdc76b7bcc52e3e3d98186dc48"
-metafile = true
-
-[[files]]
-file = "mods/unlimitedperipheralworks.pw.toml"
-hash = "d15c780c1edbc238144e55db2a83e5d20c43d0f37d2c106c8dc152fde1032fc1"
 metafile = true
 
 [[files]]
